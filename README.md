@@ -110,8 +110,8 @@ I'm a **Frontend-Focused Full Stack Developer** passionate about building modern
 
 <p>
   <a href="mailto:mohamedsalamma25@gmail.com">📧 Email</a><br/>
+  <a href="https://mohamed-phi.vercel.app/">🌐 Portofolio</a><br/>
   <a href="https://www.linkedin.com/in/mohamed-salamma">💼 LinkedIn</a><br/>
-  <a href="https://github.com/MohamedSalama25">💻 GitHub</a>
 </p>
 
 ---
