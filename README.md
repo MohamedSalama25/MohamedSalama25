@@ -2,10 +2,10 @@
 <h3 align="center">Frontend-Focused Full Stack Developer from Egypt</h3>
 
 <p align="center">
-  <a href="https://github.com/MohamedSalama25">
-    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://mohamed-phi.vercel.app/">
+    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=globe" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-salamma">
+  <a href="https://www.linkedin.com/in/mohamed-salamma-6b9b7127b/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salama-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:mohamedsalamma25@gmail.com">
@@ -72,32 +72,13 @@ I'm a **Frontend-Focused Full Stack Developer** passionate about building modern
 - Debugged frontend issues and integrated **Firebase** and **REST APIs** for real-time workflows
 - Improved code quality and scalability through refactoring and modern state management patterns
 
----
-
-## 🚀 Featured Projects
-
-### ✈️ FLYZO
-**Enterprise travel management platform** with dashboards, CRM modules, finance tracking, and airline partner management.
-
-**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
-
-### 🎓 UniConnect Hub
-**Student platform** for accommodation listings, service marketplace, real-time chat, and interactive maps.
-
-**Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` `Zustand`
-
-### 🛒 Marketly
-**Admin dashboard and commerce management platform** with authentication and real-time data handling.
-
-**Stack:** `React` `Redux Toolkit` `Supabase` `React Native`
-
 
 ## 🌍 Connect With Me
 
 <p>
   <a href="mailto:mohamedsalamma25@gmail.com">📧 Email</a><br/>
   <a href="https://mohamed-phi.vercel.app/">🌐 Portofolio</a><br/>
-  <a href="https://www.linkedin.com/in/mohamed-salamma">💼 LinkedIn</a><br/>
+  <a href="https://www.linkedin.com/in/mohamed-salamma-6b9b7127b/">💼 LinkedIn</a><br/>
 </p>
 
 ---
