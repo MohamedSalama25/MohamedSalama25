@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mohamed-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=globe" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=globe" alt="Portofolio" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-salamma-6b9b7127b/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salama-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
