@@ -91,20 +91,6 @@ I'm a **Frontend-Focused Full Stack Developer** passionate about building modern
 
 **Stack:** `React` `Redux Toolkit` `Supabase` `React Native`
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalama25&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSalama25&layout=compact&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalama25&hide_border=true" alt="GitHub streak" />
-</p>
-
----
 
 ## 🌍 Connect With Me
 
