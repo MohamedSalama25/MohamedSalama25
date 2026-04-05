@@ -1,119 +1,121 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZzMWd6c2kxcmZuZGR3am53ZDNlM2NubjFlZmc1NWxnb255aWRlYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif"  />
-</div>
+<h1 align="center">Hi there 👋, I'm Mohamed Salama</h1>
+<h3 align="center">Frontend-Focused Full Stack Developer from Egypt</h3>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-salama-6b9b7127b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://github.com/MohamedSalama25">
+    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-</div>
+  <a href="https://www.linkedin.com/in/mohamed-salamma">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salama-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedsalamma25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-<h1 align="center">Mohamed Elsayed Salama — Frontend Developer 👨‍💻</h1>
-
----
-
-### 👨‍💻 About Me
-
-I'm a **Frontend Developer** from Kafr-Elsheikh, Egypt 🇪🇬.  
-🔭 Passionate about building responsive, user-friendly apps using the latest frontend technologies.  
-📚 Currently sharpening my skills in **React**, **React Native**, **Next.js**, **Angular**, and **Flutter**.  
-⚡ I enjoy solving problems, building personal projects, and staying up to date with modern web & mobile trends. 
-
----
-
-
-📫 **Contact Me**  
-📧 Email: mohamedsalamma25@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/mohamedSalamma](https://www.linkedin.com/in/mohamed-salama-6b9b7127b/)
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Frontend-Focused+Full+Stack+Developer;Building+scalable+and+responsive+web+applications;React.js+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Clean+code+%2B+great+UX+%2B+high+performance" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tools & Technologies I've used throughout my development journey
-<div style="display: flex; align-items: flex-start;">
-  <table align="center">
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" />
-        <br>React Native
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="48" />
-        <br>Angular
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="48" />
-        <br>Flutter
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" height="48" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" height="48" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-       <img src="https://skillicons.dev/icons?i=bootstrap" height="48" />
-        <br>Bootstrap
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" alt="Redux" />
-        <br>Redux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" height="48" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" height="48" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="48" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="48" />
-        <br>Gulp
-      </td>
-    </tr>
-  </table>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-  <strong>Let's build something amazing together 🚀</strong>
-</div>
+I'm a **Frontend-Focused Full Stack Developer** passionate about building modern, scalable, and high-performance web applications from concept to deployment.
+
+- 🚀 Currently working as a **Frontend Developer at DomApp**
+- 💡 Strong focus on **clean code, reusable components, and responsive UI**
+- ⚡ Experienced with **React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB**
+- 🔍 Interested in building products that combine **great user experience** with **solid engineering practices**
+- 🤝 Comfortable working in **Agile teams**, collaborating with designers and backend developers
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,sass,angular,vue,vite" />
+</p>
+
+### State Management & Data Fetching
+<p>
+  <img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,mysql" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" />
+</p>
+
+---
+
+## 💼 Experience Highlights
+
+### Frontend Developer — DomApp
+- Develop and maintain responsive, production-ready web interfaces using **React.js** and **Next.js**
+- Translate UI/UX designs into reusable components with strong attention to code quality
+- Manage application state with **Zustand** and optimize data fetching using **React Query**
+- Collaborate with backend and design teams to integrate **REST APIs** and ship scalable features
+
+### Frontend & Cross-Platform Developer Intern — ITI
+- Built responsive web and mobile applications with focus on performance and usability
+- Debugged frontend issues and integrated **Firebase** and **REST APIs** for real-time workflows
+- Improved code quality and scalability through refactoring and modern state management patterns
+
+---
+
+## 🚀 Featured Projects
+
+### ✈️ FLYZO
+**Enterprise travel management platform** with dashboards, CRM modules, finance tracking, and airline partner management.
+
+**Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT`
+
+### 🎓 UniConnect Hub
+**Student platform** for accommodation listings, service marketplace, real-time chat, and interactive maps.
+
+**Stack:** `React 18` `TypeScript` `Vite` `Tailwind CSS` `TanStack Query` `Zustand`
+
+### 🛒 Marketly
+**Admin dashboard and commerce management platform** with authentication and real-time data handling.
+
+**Stack:** `React` `Redux Toolkit` `Supabase` `React Native`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedSalama25&show_icons=true&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSalama25&layout=compact&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedSalama25&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p>
+  <a href="mailto:mohamedsalamma25@gmail.com">📧 Email</a><br/>
+  <a href="https://www.linkedin.com/in/mohamed-salamma">💼 LinkedIn</a><br/>
+  <a href="https://github.com/MohamedSalama25">💻 GitHub</a>
+</p>
+
+---
+
+## ✨ Personal Motto
+
+> Building user-focused digital experiences with clean code, strong performance, and scalable architecture.
