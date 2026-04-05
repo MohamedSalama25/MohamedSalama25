@@ -2,9 +2,9 @@
 <h3 align="center">Frontend-Focused Full Stack Developer from Egypt</h3>
 
 <p align="center">
-  <a href="https://mohamed-phi.vercel.app/">
-    <img src="https://img.shields.io/badge/GitHub-MohamedSalama25-181717?style=for-the-badge&logo=globe" alt="Portofolio" />
-  </a>
+ <a href="https://mohamed-phi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Mohamed%20Salama-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
   <a href="https://www.linkedin.com/in/mohamed-salamma-6b9b7127b/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Salama-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
